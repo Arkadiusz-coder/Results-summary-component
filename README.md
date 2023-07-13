@@ -26,7 +26,7 @@ Users should be able to:
   ### Links
 
 - Solution URL: https://github.com/Arkadiusz-coder/Results-summary-component
-- Live Site URL:
+- Live Site URL: https://arkadiusz-coder.github.io/Results-summary-component/
 
 ## My process
 
