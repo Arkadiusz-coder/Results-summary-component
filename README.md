@@ -5,7 +5,6 @@ Frontend Mentor poject. Responsive layout with two cards
 
  ## Overview
   ### The challenge
-  ### Screenshot
   ### Links
  ## My process
   ### Built with
@@ -23,9 +22,6 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-
-  ### Screenshot
-![](./result_bottom-mobile.png)
 
   ### Links
 
