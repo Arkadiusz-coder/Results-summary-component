@@ -29,7 +29,7 @@ Users should be able to:
 
   ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/Arkadiusz-coder/Results-summary-component
 - Live Site URL:
 
 ## My process
